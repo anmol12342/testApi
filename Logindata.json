@@ -1,15 +1,21 @@
 [{
     "name": "Anmol",
     "password": "password",
-    "email": "anmolghai23"
+    "email": "anmolghai23",
+    "profession" : "Software Engineer",
+    "city": "Delhi"
 },
 {
     "name": "Sonu",
     "password": "password",
-    "email": "sonu@mailinator.com"
+    "email": "sonu@mailinator.com",
+    "profession" : "Software Engineer",
+    "city": "Delhi"
 },
 {
     "name": "Puneet",
     "password": "password",
-    "email": "puneet@mailinator.com"
+    "email": "puneet@mailinator.com",
+    "profession" : "Software Engineer",
+    "city": "Delhi"
 }]
